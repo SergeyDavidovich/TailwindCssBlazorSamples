@@ -46,7 +46,7 @@
     }
 }
 
-@media (min-width: 641px) {
+@media (min-width: 800px) {
     .page[b-mnhldh9xy4] {
         flex-direction: row;
     }
@@ -122,7 +122,7 @@
     color: white;
 }
 
-@media (min-width: 641px) {
+@media (min-width: 800px) {
     .navbar-toggler[b-kvtlgqy6we] {
         display: none;
     }
