@@ -8,6 +8,9 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
+// https://chrissainty.com/integrating-tailwind-css-with-blazor-using-gulp-part-1/
+// https://chrissainty.com/integrating-tailwind-css-with-blazor-using-gulp-part-2/
+
 namespace TailwindCssBlazorSamples
 {
     public class Program
